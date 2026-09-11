@@ -1,0 +1,13 @@
+--- INSTITUTIONAL RESEARCH DOSSIER: NWSA (News Corporation) ---
+NWSA - MASTER FINANCIALS: 
+Market Cap: $14.52B
+Rev CAGR (3Y): 2.58%
+ROE: 2.21%
+ROIC: 2.49%
+WACC: 10.00%
+Piotroski F-Score: 1
+Altman Z-Score: 0.0
+Net Insider (6M): +0
+Top Holders: Vanguard Group Inc (-2.8%) | Blackrock Inc. (+5.2%) | Independent Franchise Partners, LLP (+4.0%)
+Product Segments: N/A
+Investment Thesis: Stable performance.

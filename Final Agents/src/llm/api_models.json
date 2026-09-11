@@ -1,0 +1,17 @@
+[
+  {
+    "display_name": "Gemma 4 (31B) Thinking",
+    "model_name": "google/gemma-4-31b-it",
+    "provider": "NVIDIA"
+  },
+  {
+    "display_name": "Llama 3.1 70B (Fast)",
+    "model_name": "meta/llama-3.1-70b-instruct",
+    "provider": "NVIDIA"
+  },
+  {
+    "display_name": "Nemotron-3 Super (120B)",
+    "model_name": "nvidia/nemotron-3-super-120b-a12b",
+    "provider": "NVIDIA"
+  }
+]

@@ -1,0 +1,13 @@
+--- INSTITUTIONAL RESEARCH DOSSIER: OMC (Omnicom Group Inc.) ---
+OMC - MASTER FINANCIALS: 
+Market Cap: $21.59B
+Rev CAGR (3Y): -5.28%
+ROE: -11.30%
+ROIC: -5.15%
+WACC: 6.93%
+Piotroski F-Score: 4
+Altman Z-Score: 0.0
+Net Insider (6M): +0
+Top Holders: Vanguard Group Inc (+64.2%) | Blackrock Inc. (+42.0%) | State Street Corporation (+40.4%)
+Product Segments: N/A
+Investment Thesis: Stable performance.

@@ -1,0 +1,21 @@
+{
+    "initial_capital": 100000.0,
+    "final_value": 391456.1219192571,
+    "total_return_pct": 291.4561219192571,
+    "win_rate_pct": 100.0,
+    "number_of_trades": 1,
+    "trades": [
+        {
+            "ticker": "NVDA",
+            "shares": 2075.2590350747832,
+            "entry_price": 48.13856887817383,
+            "exit_price": 188.6300048828125,
+            "pnl": 291456.1219192571,
+            "return_pct": 2.918479698891462
+        }
+    ],
+    "metrics": {
+        "sharpe_ratio": 0,
+        "max_drawdown": 0
+    }
+}

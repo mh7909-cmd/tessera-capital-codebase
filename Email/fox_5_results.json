@@ -1,0 +1,136 @@
+/Users/mayankhinduja/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[
+  {
+    "name": "ilana black",
+    "role": {
+      "name": "talent relations intern",
+      "class": null,
+      "role": null,
+      "sub_role": null,
+      "levels": [
+        "training"
+      ]
+    },
+    "linkedin": "linkedin.com/in/ilanablack",
+    "end_date": "2011-08"
+  },
+  {
+    "name": "lisa caruso",
+    "role": {
+      "name": "field producer / 'classmates' / fox tv",
+      "class": "services",
+      "role": "creative",
+      "sub_role": "journalism",
+      "levels": []
+    },
+    "linkedin": "linkedin.com/in/lisacaruso",
+    "end_date": "2003-12"
+  },
+  {
+    "name": "jon marinos",
+    "role": {
+      "name": "senior traffic coordinator, on-air promotions",
+      "class": "services",
+      "role": "creative",
+      "sub_role": "entertainment",
+      "levels": [
+        "senior"
+      ]
+    },
+    "linkedin": "linkedin.com/in/jonmarinos",
+    "end_date": "2018-12"
+  },
+  {
+    "name": "justin leader",
+    "role": {
+      "name": "development and programming department",
+      "class": null,
+      "role": null,
+      "sub_role": null,
+      "levels": []
+    },
+    "linkedin": "linkedin.com/in/justinleader",
+    "end_date": "2008-08"
+  },
+  {
+    "name": "jennifer nguyen",
+    "role": {
+      "name": "manager, national media",
+      "class": "general_and_administrative",
+      "role": "operations",
+      "sub_role": "administrative",
+      "levels": [
+        "manager"
+      ]
+    },
+    "linkedin": "linkedin.com/in/jennifer-nguyen-68a145b",
+    "end_date": "2016-10"
+  },
+  {
+    "name": "john ma",
+    "role": {
+      "name": "director, strategy & operations",
+      "class": "services",
+      "role": "creative",
+      "sub_role": "journalism",
+      "levels": [
+        "director"
+      ]
+    },
+    "linkedin": "linkedin.com/in/johnma11",
+    "end_date": "2022-04"
+  },
+  {
+    "name": "kyle newell",
+    "role": {
+      "name": "entertainment digital strategy and business development mba intern",
+      "class": "sales_and_marketing",
+      "role": "partnerships",
+      "sub_role": "business_development",
+      "levels": [
+        "training"
+      ]
+    },
+    "linkedin": "linkedin.com/in/kylegnewell",
+    "end_date": "2024-12"
+  },
+  {
+    "name": "kyle ford",
+    "role": {
+      "name": "writer / producer (fox.com)",
+      "class": "services",
+      "role": "creative",
+      "sub_role": "journalism",
+      "levels": []
+    },
+    "linkedin": "linkedin.com/in/kyleford",
+    "end_date": "2004-06"
+  },
+  {
+    "name": "adam simms",
+    "role": {
+      "name": "production assistant",
+      "class": null,
+      "role": null,
+      "sub_role": null,
+      "levels": []
+    },
+    "linkedin": "linkedin.com/in/adam-simms-87a86156",
+    "end_date": "2017"
+  },
+  {
+    "name": "tracey mccormack",
+    "role": {
+      "name": "vice president / training and development",
+      "class": null,
+      "role": null,
+      "sub_role": null,
+      "levels": [
+        "vp"
+      ]
+    },
+    "linkedin": "linkedin.com/in/traceymccormack",
+    "end_date": null
+  }
+]

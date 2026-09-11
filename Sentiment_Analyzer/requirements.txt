@@ -1,0 +1,9 @@
+Scweet
+yars
+gspread
+google-auth
+openai
+python-dotenv
+pandas
+requests
+curl_cffi

@@ -1,0 +1,16 @@
+--- INSTITUTIONAL RESEARCH DOSSIER: FLY (Firefly Aerospace) ---
+FLY - MASTER FINANCIALS: 
+Market Cap: $5.62B
+Rev CAGR (3Y): -41.22%
+ROE: -3.84%
+ROIC: -8.92%
+WACC: -6.02%
+Piotroski F-Score: 7
+Altman Z-Score: -3.70
+Net Insider (6M): +0
+Top Holders: Ae Industrial Partners, LP                           (-2.9%) | Vanguard Group Inc (+7.8%) | Hudson Bay Capital Management Lp (-1.3%)
+Product Segments: N/A
+Investment Thesis: Stable performance.
+
+--- PRIMARY RESEARCH: EXPERT CALL TRANSCRIPT ---
+INTERCEPTED_TRANSCRIPT: EXPERT (Impulse Space): 'FLY's Reaver engine is significantly more resilient than previous iterations. We've seen 90-day turnaround feasibility in the latest tests. The manufacturing throughput gap is closing faster than the market realizes. Their mission-level reliability thresholds are currently the best in class for small-to-medium payload launches.'

@@ -1,0 +1,13 @@
+--- INSTITUTIONAL RESEARCH DOSSIER: SATS (EchoStar Corporation) ---
+SATS - MASTER FINANCIALS: 
+Market Cap: $33.94B
+Rev CAGR (3Y): -33.94%
+ROE: -18.99%
+ROIC: -2.08%
+WACC: 7.25%
+Piotroski F-Score: 5
+Altman Z-Score: 0.0
+Net Insider (6M): +0
+Top Holders: Blackrock Inc. (+6.6%) | Vanguard Group Inc (-0.1%) | FMR, LLC (+77.0%)
+Product Segments: N/A
+Investment Thesis: Stable performance.

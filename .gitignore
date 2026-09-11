@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+
+# Project specific exclusions
+*.xlsx
+*.csv
+!universe_cache.csv
+*.log
+*.db
+*.db-shm
+*.db-wal
+temp_yars/
+
+# Credentials and Secrets
+*.env*
+*.bak
+*.pickle
+*credentials*.json
+*client_secret*.json
+*service_account*.json
+*authorized_user*.json
+*gdrive_key*.json
+**/*credentials*.json
+**/*client_secret*.json
+**/*service_account*.json
+**/*gdrive_key*.json
+token.pickle
+**/token.pickle
+
+# Node modules
+node_modules/
+MiroFish/node_modules/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.bak
